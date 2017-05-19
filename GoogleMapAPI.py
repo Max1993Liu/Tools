@@ -1,6 +1,6 @@
 import requests
 
-API_KEY  = "AIzaSyDqV6U4IJF6tuqO-wMqsXm-7K6YQOfc46U"
+API_KEY  = "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 def get_loc(address, state):
